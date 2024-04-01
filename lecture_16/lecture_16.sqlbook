@@ -49,6 +49,7 @@ DROP TABLE IF EXISTS drivers;
 
 Create empty table from codebook
 -- SQLBook: Code
+-- Active: 1710938553115@@127.0.0.1@5432@postgres
 -- Create empty TABLE called "drivers"
 -- This example has five arguments separated by a comma
 -- that contain the "column_name" and "column_type", respectively
@@ -96,6 +97,7 @@ Try it yourself!
 
 - Add two/three more rows on your own
 -- SQLBook: Code
+-- Active: 1710938553115@@127.0.0.1@5432@postgres
 -- Add your name/nationality and your neighbors'
 -- Select a new driver id (needs to be unique)
 -- Make sure to deparate arguments by a semicolon!
